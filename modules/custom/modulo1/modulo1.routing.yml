@@ -1,0 +1,7 @@
+modulo1.content:
+  path: '/modulo1'
+  defaults: 
+    _title: 'Modulo 1'
+    _controller: '\Drupal\modulo1\Controller\Modulo1Controller::content'
+  requirements:
+    _permission: 'access content'
