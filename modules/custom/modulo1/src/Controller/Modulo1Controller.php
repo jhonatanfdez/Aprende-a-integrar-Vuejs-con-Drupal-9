@@ -24,5 +24,4 @@ class Modulo1Controller extends ControllerBase {
         return $contenido;
 
     }
-
 }
