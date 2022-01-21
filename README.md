@@ -1,5 +1,9 @@
 <img alt="Drupal Logo" src="https://www.drupal.org/files/Wordmark_blue_RGB.png" height="60px">
 
+
+<img alt="Vue Logo" src="https://es.vuejs.org/images/logo.png" height="60px">
+
+
 # Aprende a integrar Vuejs 3 con Drupal 9
 
 Drupal es una plataforma de administración de contenido de código abierto que admite una variedad de sitios web que van desde blogs personales hasta sitios web impulsados por grandes comunidades. Para obtener más información, visite el sitio web de Drupal
