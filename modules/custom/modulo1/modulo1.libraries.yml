@@ -6,5 +6,11 @@ global:
       css/style.css: {}
 
 
+vue_controller:
+  js:
+    'https://cdn.jsdelivr.net/npm/sweetalert2@11.3.3/dist/sweetalert2.all.min.js': { type: external }
+    'https://unpkg.com/vue@next': { type: external }
+    js/script.js: {}
+
 
 
